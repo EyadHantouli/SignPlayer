@@ -1,6 +1,9 @@
 # SignPlayer
 SignPlayer project by team Allies for Amazon Teckathon 2022
 
+The website is fully functional on only one video which is linked below:
+- https://www.youtube.com/watch?v=RyoaZCVBO78&ab_channel=NewClimateVoices
+
 How to run the website:
 1- In Django project you need to download (django, django_rest_framework, corsheaders, etc) modules.
 2- In Flask project you need to download (flask, textblob, youtube_transcript_api, etc) modules.
